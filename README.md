@@ -1,3 +1,4 @@
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DEINLINK)
 # 🤖 Jarvis
 
 > 🎬 A cinematic local AI desktop assistant for Windows with 🎤 voice control, 🧠 natural language understanding, 🖥️ desktop automation, and a modern 🤖 agent-style architecture.
