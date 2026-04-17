@@ -139,4 +139,4 @@ Jarvis uses a modular local architecture instead of one rigid command parser.
 - 🧾 `ConversationContextService`  
   Stores recent state such as the last app, last website, last created path, last workflow, and previous replies.
 
-## 📂 Project Structure
+  # 🤖 Jarvis
